@@ -1,0 +1,510 @@
+Brand,Model_Name,Price,Front_Cam_MP,Display_cm,Processor,RAM_in_gb,ROM_in_gb,Battery_in_mAh,Expandable_Memory_in_gb,Rating
+realme,realme C21 (Cross Black),8999.0,5.0,16.51,MediaTek Helio G35 Processor,4.0,64.0,5000.0,256.0,4.4
+POCO,POCO M3 (Power Black),10499.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,6.0,64.0,6000.0,512.0,4.3
+REDMI,REDMI 9i (Midnight Black),7999.0,5.0,16.59,MediaTek Helio G25 Processor,4.0,64.0,5000.0,512.0,4.3
+realme,realme C20 (Cool Grey),6799.0,5.0,16.51,MediaTek Helio G35 Processor,2.0,32.0,5000.0,256.0,4.3
+Infinix,Infinix Hot 10 Play (Morandi Green),8499.0,8.0,17.32,MediaTek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.3
+realme,realme Narzo 30A (Laser Black),7999.0,8.0,16.54,MediaTek Helio G85 Processor,3.0,32.0,6000.0,256.0,4.4
+realme,realme Narzo 30A (Laser Blue),7999.0,8.0,16.54,MediaTek Helio G85 Processor,3.0,32.0,6000.0,256.0,4.4
+realme,realme Narzo 30A (Laser Black),8999.0,8.0,16.54,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+realme,realme Narzo 20 (Glory Silver),9999.0,8.0,16.56,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.3
+REDMI,REDMI 9 Power (Electric Green),9999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,64.0,6000.0,0.0,4.3
+POCO,POCO M3 (Cool Blue),10499.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,6.0,64.0,6000.0,512.0,4.3
+Infinix,,8499.0,8.0,17.32,MediaTek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.3
+Infinix,Infinix Hot 10 Play (Aegean Blue),8499.0,8.0,17.32,MediaTek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.3
+Infinix,Infinix Hot 10 Play (Obsidian Black),8499.0,8.0,17.32,MediaTek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.3
+Infinix,,6799.0,8.0,17.32,MediaTek Helio G25 Processor,2.0,32.0,6000.0,256.0,4.4
+Infinix,Infinix Smart 5 (Obsidian Black),6799.0,8.0,17.32,MediaTek Helio G25 Processor,2.0,32.0,6000.0,256.0,4.4
+Infinix,Infinix Smart 5 (Morandi Green),6799.0,8.0,17.32,MediaTek Helio G25 Processor,2.0,32.0,6000.0,256.0,4.4
+Infinix,Infinix Smart 5 (Aegean Blue),6799.0,8.0,17.32,MediaTek Helio G25 Processor,2.0,32.0,6000.0,256.0,4.4
+realme,realme C12 (Power Blue),7999.0,5.0,16.56,Mediatek Helio G35 Processor,3.0,32.0,6000.0,256.0,4.4
+REDMI,REDMI 9i (Nature Green),7999.0,5.0,16.59,MediaTek Helio G25 Processor,4.0,64.0,5000.0,512.0,4.3
+REDMI,REDMI Note 9 (Pebble Grey),10999.0,13.0,16.59,MediaTek Helio G85 Processor,4.0,64.0,5020.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy F12 (Sky Blue),9999.0,8.0,16.55,Exynos 850 Processor,4.0,64.0,6000.0,512.0,4.2
+GIONEE,GIONEE Max (Red),5499.0,5.0,15.49,Octa Core Processor,2.0,32.0,5000.0,256.0,4.1
+OPPO,OPPO A12 (Black),7490.0,5.0,15.8,MediaTek Helio P35 Processor,3.0,32.0,4230.0,256.0,4.4
+OPPO,OPPO A12 (Flowing Silver),8490.0,5.0,15.8,MediaTek Helio P35 Processor,4.0,64.0,4230.0,256.0,4.4
+OPPO,OPPO A12 (Deep Blue),9999.0,5.0,15.8,MediaTek Helio P35 Processor,4.0,64.0,4230.0,256.0,4.4
+SAMSUNG,SAMSUNG Galaxy F41 (Fusion Blue),14499.0,32.0,16.26,Exynos 9611 Processor,6.0,128.0,6000.0,512.0,4.3
+OPPO,OPPO A12 (Deep Blue),8999.0,5.0,15.8,MediaTek Helio P35 Processor,3.0,32.0,4230.0,256.0,4.4
+OPPO,OPPO A12 (Flowing Silver),9499.0,5.0,15.8,MediaTek Helio P35 Processor,3.0,32.0,4230.0,256.0,4.4
+GIONEE,GIONEE Max (Black),5499.0,5.0,15.49,Octa Core Processor,2.0,32.0,5000.0,256.0,4.1
+realme,realme Narzo 20 (Glory Silver),9999.0,8.0,16.56,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.3
+POCO,POCO M2 Reloaded (Mostly Blue),9499.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,64.0,5000.0,512.0,4.4
+realme,realme 8 5G (Supersonic Blue),13999.0,16.0,16.51,,4.0,64.0,5000.0,1000.0,4.3
+realme,realme C25 (Watery Blue),9999.0,8.0,16.51,MediaTek Helio G70 Processor,4.0,64.0,6000.0,256.0,4.4
+POCO,POCO M3 (Cool Blue),11999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,6.0,128.0,6000.0,512.0,4.3
+REDMI,REDMI Note 9 (Arctic White),12884.0,13.0,16.59,MediaTek Helio G85 Processor,4.0,64.0,5020.0,512.0,4.3
+REDMI,REDMI 9 Power (Mighty Black),9999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,64.0,6000.0,0.0,4.3
+MOTOROLA,MOTOROLA E7 Power (Tahiti Blue),7999.0,5.0,16.54,MediaTek Helio G25 Processor,4.0,64.0,5000.0,1000.0,4.1
+realme,realme C25 (Watery Blue),10499.0,8.0,16.51,MediaTek Helio G70 Processor,4.0,128.0,6000.0,256.0,4.4
+realme,realme C25 (Watery Grey),10499.0,8.0,16.51,MediaTek Helio G70 Processor,4.0,128.0,6000.0,256.0,4.4
+MOTOROLA,MOTOROLA G10 Power (Breeze Blue),9499.0,8.0,16.54,Snapdragon 460 Processor,4.0,64.0,6000.0,0.0,4.1
+OPPO,OPPO A33 (Moonlight Black),8990.0,8.0,16.51,Qualcomm Snapdragon 460 Processor,3.0,32.0,5000.0,256.0,4.3
+Infinix,Infinix Smart HD 2021 (Obsidian Black),6499.0,5.0,15.49,MediaTek Helio A20 Processor,2.0,32.0,5000.0,256.0,4.4
+Infinix,Infinix Smart HD 2021 (Topaz Blue),6499.0,5.0,15.49,MediaTek Helio A20 Processor,2.0,32.0,5000.0,256.0,4.4
+Infinix,Infinix Smart HD 2021 (Quartz Green),6499.0,5.0,15.49,MediaTek Helio A20 Processor,2.0,32.0,5000.0,256.0,4.4
+Infinix,Infinix Hot 10 (Moonlight Jade),8999.0,8.0,17.22,MediaTek Helio G70 Processor,4.0,64.0,5200.0,256.0,4.4
+REDMI,REDMI Note 9 (Aqua Green),12839.0,13.0,16.59,MediaTek Helio G85 Processor,4.0,64.0,5020.0,512.0,4.3
+POCO,POCO X3 Pro (Graphite Black),18999.0,20.0,16.94,Qualcomm Snapdragon 860 Processor,6.0,128.0,5160.0,1000.0,4.4
+REDMI,REDMI 9 Prime (Mint Green),9999.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,64.0,5020.0,512.0,4.4
+POCO,POCO C3 (Arctic Blue),8499.0,5.0,16.59,Mediatek Helio G35 Processor,4.0,64.0,5000.0,512.0,4.3
+realme,realme 8 5G (Supersonic Black),14999.0,16.0,16.51,,4.0,128.0,5000.0,1000.0,4.3
+Infinix,Infinix Hot 10 (Moonlight Jade),10999.0,8.0,17.22,MediaTek Helio G70 Processor,6.0,128.0,5200.0,256.0,4.3
+OPPO,OPPO A33 (Mint Cream),8990.0,8.0,16.51,Qualcomm Snapdragon 460 Processor,3.0,32.0,5000.0,256.0,4.3
+realme,realme 8 5G (Supersonic Blue),16999.0,16.0,16.51,,8.0,128.0,5000.0,1000.0,4.3
+realme,realme 8 5G (Supersonic Black),16999.0,16.0,16.51,,8.0,128.0,5000.0,1000.0,4.3
+Infinix,Infinix Hot 10 (Obsidian Black),8999.0,8.0,17.22,MediaTek Helio G70 Processor,4.0,64.0,5200.0,256.0,4.4
+Infinix,Infinix Hot 10 (Amber Red),8999.0,8.0,17.22,MediaTek Helio G70 Processor,4.0,64.0,5200.0,256.0,4.4
+Infinix,Infinix Hot 10 (Ocean Wave),8999.0,8.0,17.22,MediaTek Helio G70 Processor,4.0,64.0,5200.0,256.0,4.4
+POCO,POCO M3 (Power Black),11999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,6.0,128.0,6000.0,512.0,4.3
+POCO,POCO X3 (Shadow Gray),14999.0,20.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,64.0,6000.0,512.0,4.4
+REDMI,REDMI 9 Power (Blazing Blue),9999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,64.0,6000.0,0.0,4.3
+POCO,POCO M3 (Yellow),10499.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,6.0,64.0,6000.0,512.0,4.3
+REDMI,REDMI 9i (Sea Blue),7999.0,5.0,16.59,MediaTek Helio G25 Processor,4.0,64.0,5000.0,512.0,4.3
+Infinix,,10999.0,8.0,17.32,MediaTek Helio G85 Processor,6.0,64.0,6000.0,256.0,4.3
+OPPO,OPPO A53s 5G (Crystal Blue),14990.0,8.0,16.56,MediaTek Dimensity 700 Processor,6.0,128.0,5000.0,1000.0,4.3
+OPPO,OPPO A53s 5G (Crystal Blue),16990.0,8.0,16.56,MediaTek Dimensity 700 Processor,8.0,128.0,5000.0,1000.0,4.3
+realme,realme C25 (Watery Grey),9499.0,8.0,16.51,MediaTek Helio G70 Processor,4.0,64.0,6000.0,256.0,4.4
+realme,realme Narzo 30 Pro 5G (Blade Silver),14999.0,16.0,16.51,MediaTek Dimensity 800U Processor,6.0,64.0,5000.0,256.0,4.4
+realme,realme Narzo 30 Pro 5G (Sword Black),14999.0,16.0,16.51,MediaTek Dimensity 800U Processor,6.0,64.0,5000.0,256.0,4.4
+realme,realme 8 (Cyber Silver),13999.0,16.0,16.26,MediaTek Helio G95 Processor,4.0,128.0,5000.0,256.0,4.3
+realme,realme 8 (Cyber Black),14999.0,16.0,16.26,MediaTek Helio G95 Processor,6.0,128.0,5000.0,256.0,4.4
+realme,realme 8 (Cyber Silver),14999.0,16.0,16.26,MediaTek Helio G95 Processor,6.0,128.0,5000.0,256.0,4.4
+realme,realme C15 Qualcomm Edition (Power Silver),9999.0,8.0,16.56,Qualcomm Snapdragon 460 Processor,4.0,64.0,6000.0,256.0,4.4
+REDMI,REDMI 9 Prime (Matte Black),9999.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,64.0,5020.0,512.0,4.4
+realme,realme C15 Qualcomm Edition (Power Blue),9999.0,8.0,16.56,Qualcomm Snapdragon 460 Processor,4.0,64.0,6000.0,256.0,4.4
+realme,realme 8 5G (Supersonic Black),13999.0,16.0,16.51,,4.0,64.0,5000.0,1000.0,4.3
+POCO,POCO M2 Reloaded (Greyish Black),9499.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,64.0,5000.0,512.0,4.4
+MOTOROLA,MOTOROLA G10 Power (Aurora Grey),9499.0,8.0,16.54,Snapdragon 460 Processor,4.0,64.0,6000.0,0.0,4.1
+MOTOROLA,MOTOROLA E7 Power (Tahiti Blue),6999.0,5.0,16.54,MediaTek Helio G25 Processor,2.0,32.0,5000.0,1000.0,4.2
+ViVO,ViVO Y12s (Phantom Black),10490.0,8.0,16.54,Snapdragon 439 Processor,3.0,32.0,5000.0,256.0,4.3
+realme,realme Narzo 20A (Victory Blue),9499.0,8.0,16.51,Qualcomm Snapdragon 665 Processor,4.0,64.0,5000.0,256.0,4.4
+REDMI,REDMI 9i (Nature Green),9299.0,5.0,16.59,MediaTek Helio G25 Processor,4.0,128.0,5000.0,512.0,4.3
+REDMI,REDMI Note 10 (Aqua Green),13369.0,13.0,16.33,Qualcomm Snapdragon 678 Processor,4.0,64.0,5000.0,512.0,4.3
+realme,realme C21 (Cross Blue),8999.0,5.0,16.51,MediaTek Helio G35 Processor,4.0,64.0,5000.0,256.0,4.4
+realme,realme C21 (Cross Blue),7999.0,5.0,16.51,MediaTek Helio G35 Processor,3.0,32.0,5000.0,256.0,4.4
+realme,realme C21 (Cross Black),7999.0,5.0,16.51,MediaTek Helio G35 Processor,3.0,32.0,5000.0,256.0,4.4
+realme,realme C20 (Cool Blue),6799.0,5.0,16.51,MediaTek Helio G35 Processor,2.0,32.0,5000.0,256.0,4.3
+realme,realme Narzo 20 (Victory Blue),9999.0,8.0,16.56,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.3
+realme,realme Narzo 30A (Laser Blue),8999.0,8.0,16.54,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+realme,realme Narzo 20 (Victory Blue),10999.0,8.0,16.56,MediaTek Helio G85 Processor,4.0,128.0,6000.0,256.0,4.3
+realme,realme C12 (Power Silver),7999.0,5.0,16.56,Mediatek Helio G35 Processor,3.0,32.0,6000.0,256.0,4.4
+realme,realme C12 (Power Blue),8999.0,5.0,16.56,Mediatek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.4
+GIONEE,GIONEE Max (Royal Blue),5499.0,5.0,15.49,Octa Core Processor,2.0,32.0,5000.0,256.0,4.1
+realme,realme C12 (Power Silver),8999.0,5.0,16.56,Mediatek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.4
+OPPO,OPPO A12 (Blue),8490.0,5.0,15.8,MediaTek Helio P35 Processor,4.0,64.0,4230.0,256.0,4.4
+realme,realme Narzo 20 (Glory Silver),10999.0,8.0,16.56,MediaTek Helio G85 Processor,4.0,128.0,6000.0,256.0,4.3
+Infinix,Infinix Hot 10 (Ocean Wave),10999.0,8.0,17.22,MediaTek Helio G70 Processor,6.0,128.0,5200.0,256.0,4.3
+Infinix,Infinix Hot 10 (Amber Red),10999.0,8.0,17.22,MediaTek Helio G70 Processor,6.0,128.0,5200.0,256.0,4.3
+realme,realme 8 5G (Supersonic Blue),14999.0,16.0,16.51,,4.0,128.0,5000.0,1000.0,4.3
+Infinix,Infinix Hot 10 (Obsidian Black),10999.0,8.0,17.22,MediaTek Helio G70 Processor,6.0,128.0,5200.0,256.0,4.3
+OPPO,OPPO A53s 5G (Ink Black),14990.0,8.0,16.56,MediaTek Dimensity 700 Processor,6.0,128.0,5000.0,1000.0,4.3
+REDMI,REDMI 9 Prime (Sunrise Flare),9999.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,64.0,5020.0,512.0,4.4
+realme,realme C15 Qualcomm Edition (Power Blue),8999.0,8.0,16.56,Qualcomm Snapdragon 460 Processor,3.0,32.0,6000.0,256.0,4.3
+POCO,POCO X3 (Cobalt Blue),14999.0,20.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,64.0,6000.0,512.0,4.4
+SAMSUNG,SAMSUNG Galaxy F41 (Fusion Green),14499.0,32.0,16.26,Exynos 9611 Processor,6.0,128.0,6000.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy F62 (Laser Grey),25999.0,32.0,17.02,Exynos 9825 Processor,8.0,128.0,7000.0,1000.0,4.3
+OPPO,OPPO A53 (Moonlight Black),15990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,4.0,64.0,5000.0,256.0,4.5
+MOTOROLA,MOTOROLA G60 (Dynamic Gray),17999.0,32.0,17.22,Qualcomm Snapdragon 732G Processor,6.0,128.0,6000.0,0.0,4.2
+Redmi,Redmi 9 (Sporty Orange),9127.0,5.0,16.59,MediaTek Helio G35 Processor,4.0,64.0,5000.0,0.0,4.2
+Redmi,Redmi 9 (Sky Blue),9078.0,5.0,16.59,MediaTek Helio G35 Processor,4.0,64.0,5000.0,0.0,4.2
+POCO,POCO C3 (Lime Green),7499.0,5.0,16.59,Mediatek Helio G35 Processor,3.0,32.0,5000.0,512.0,4.3
+realme,realme Narzo 30 Pro 5G (Blade Silver),17999.0,16.0,16.51,MediaTek Dimensity 800U Processor,8.0,128.0,5000.0,256.0,4.3
+REDMI,REDMI 9 Power (Fiery Red),9999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,64.0,6000.0,0.0,4.3
+realme,realme 8 (Cyber Black),13999.0,16.0,16.26,MediaTek Helio G95 Processor,4.0,128.0,5000.0,256.0,4.3
+realme,realme 8 (Cyber Black),15999.0,16.0,16.26,MediaTek Helio G95 Processor,8.0,128.0,5000.0,256.0,4.4
+realme,realme 8 (Cyber Silver),15999.0,16.0,16.26,MediaTek Helio G95 Processor,8.0,128.0,5000.0,256.0,4.4
+OPPO,OPPO A53 (Moonlight Black),12990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,6.0,128.0,5000.0,256.0,4.4
+SAMSUNG,SAMSUNG Galaxy F12 (Sea Green),10999.0,8.0,16.55,Exynos 850 Processor,4.0,128.0,6000.0,512.0,4.2
+OPPO,OPPO A53 (Mint Cream),12990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,6.0,128.0,5000.0,256.0,4.4
+realme,realme C25s (Watery Blue),10999.0,8.0,16.51,MediaTek Helio G85 Processor,4.0,128.0,6000.0,256.0,4.4
+REDMI,REDMI Note 9 (Shadow Black),13495.0,13.0,16.59,MediaTek Helio G85 Processor,4.0,64.0,5020.0,512.0,4.3
+MOTOROLA,MOTOROLA G30 (Dark Pearl),10999.0,13.0,16.54,Snapdragon 662 Processor,4.0,64.0,5000.0,0.0,4.1
+Infinix,Infinix Hot 10S (Heart Of Ocean),9999.0,8.0,17.32,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+POCO,POCO X3 Pro (Graphite Black),20999.0,20.0,16.94,Qualcomm Snapdragon 860 Processor,8.0,128.0,5160.0,1000.0,4.4
+Infinix,Infinix Smart 4 Plus (Quetzal Cyan),7999.0,8.0,17.32,Mediatek Helio A25 Processor,3.0,32.0,6000.0,256.0,4.4
+MOTOROLA,MOTOROLA G40 Fusion (Dynamic Gray),16499.0,16.0,17.22,Qualcomm Snapdragon 732G Processor,6.0,128.0,6000.0,0.0,4.3
+ViVO,ViVO Y20G (Purist Blue),12990.0,8.0,16.54,MediaTek Helio G80 Processor,4.0,64.0,5000.0,1000.0,4.3
+REDMI,REDMI 9 Power (Mighty Black),11999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,128.0,6000.0,0.0,4.3
+realme,realme 8 Pro (Illuminating Yellow),19999.0,16.0,16.26,Qualcomm Snapdragon 720G Processor,8.0,128.0,4500.0,256.0,4.3
+ViVO,ViVO Y51A (Crystal Symphony),17990.0,16.0,16.71,Qualcomm Snapdragon 662 Processor,8.0,128.0,5000.0,1000.0,4.4
+ViVO,ViVO Y51A (Titanium Sapphire),17990.0,16.0,16.71,Qualcomm Snapdragon 662 Processor,8.0,128.0,5000.0,1000.0,4.4
+POCO,POCO M3 (Yellow),11999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,6.0,128.0,6000.0,512.0,4.3
+REDMI,REDMI 9 Power (Electric Green),12999.0,8.0,16.59,,6.0,128.0,6000.0,0.0,4.3
+realme,realme X7 5G (Nebula),17999.0,16.0,16.33,MediaTek Dimensity 800U Processor,6.0,128.0,4310.0,0.0,4.3
+Infinix,Infinix Smart 4 Plus (Violet),7999.0,8.0,17.32,Mediatek Helio A25 Processor,3.0,32.0,6000.0,256.0,4.4
+MOTOROLA,MOTOROLA E7 Power (Coral Red),7999.0,5.0,16.54,MediaTek Helio G25 Processor,4.0,64.0,5000.0,1000.0,4.1
+realme,realme Narzo 30 Pro 5G (Sword Black),17999.0,16.0,16.51,MediaTek Dimensity 800U Processor,8.0,128.0,5000.0,256.0,4.3
+ViVO,ViVO Y20G (Obsidian Black),14990.0,8.0,16.54,MediaTek Helio G80 Processor,6.0,128.0,5000.0,1000.0,4.3
+ViVO,ViVO Y20G (Obsidian Black),12990.0,8.0,16.54,MediaTek Helio G80 Processor,4.0,64.0,5000.0,1000.0,4.3
+SAMSUNG,SAMSUNG Galaxy F12 (Sky Blue),10999.0,8.0,16.55,Exynos 850 Processor,4.0,128.0,6000.0,512.0,4.2
+ViVO,ViVO Y11 (Agate Red),9490.0,8.0,16.13,SDM439 Processor,3.0,32.0,5000.0,0.0,4.4
+ViVO,ViVO Y11 (Mineral Blue),9490.0,8.0,16.13,SDM439 Processor,3.0,32.0,5000.0,0.0,4.4
+SAMSUNG,SAMSUNG Galaxy M11 (Black),9997.0,8.0,16.26,,4.0,64.0,5000.0,512.0,4.3
+ViVO,ViVO Y30 (Emerald Black),13990.0,8.0,16.43,MediaTek Helio P35 Processor,4.0,128.0,5000.0,256.0,4.3
+Infinix,,9999.0,8.0,17.32,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+Infinix,,9999.0,8.0,17.32,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+Infinix,Infinix Hot 10S (Morandi Green),9999.0,8.0,17.32,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+Itel,Itel A25 Pro (Gradation Green),4999.0,2.0,12.7,Unisoc 9832E Quad Core Processor,2.0,32.0,3020.0,32.0,4.1
+Infinix,Infinix Hot 10S (Morandi Green),9999.0,8.0,17.32,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+Itel,Itel A25 Pro (Gradation Green),4999.0,2.0,12.7,Unisoc 9832E Quad Core Processor,2.0,32.0,3020.0,32.0,4.1
+Itel,Itel A25 Pro (Gradation Blue),4999.0,2.0,12.7,Unisoc 9832E Quad Core Processor,2.0,32.0,3020.0,32.0,4.1
+Itel,Itel A25 Pro (Gradation Purple),4999.0,2.0,12.7,Unisoc 9832E Quad Core Processor,2.0,32.0,3020.0,32.0,4.1
+Itel,Itel Vision1 (Gradation Green),6549.0,5.0,15.46,Unisoc SC9863A Octa Core Processor,3.0,32.0,4000.0,128.0,4.1
+SAMSUNG,SAMSUNG Galaxy F02s (Diamond Blue),9999.0,5.0,16.55,,4.0,64.0,5000.0,1000.0,4.2
+Redmi,Redmi 9 (Sky Blue),10889.0,5.0,16.59,MediaTek Helio G35 Processor,4.0,128.0,5000.0,0.0,4.2
+Redmi,Redmi 9 (Carbon Black),9244.0,5.0,16.59,MediaTek Helio G35 Processor,4.0,64.0,5000.0,0.0,4.2
+SAMSUNG,SAMSUNG M31 (Ocean Blue),15715.0,32.0,16.26,Samsung Exynos 9 Octa 9611 Processor,6.0,128.0,6000.0,512.0,4.3
+ViVO, V2069 (Glacier Blue),10490.0,8.0,16.54,Snapdragon 439 Processor,3.0,32.0,5000.0,256.0,4.3
+Infinix,Infinix Hot 10S (Morandi Green),10999.0,8.0,17.32,MediaTek Helio G85 Processor,6.0,64.0,6000.0,256.0,4.3
+GIONEE,GIONEE Max Pro (Blue),6499.0,8.0,16.56,Octa Core Processor,3.0,32.0,6000.0,256.0,3.9
+realme,realme C25s (Watery Grey),9999.0,8.0,16.51,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+realme,realme C25s (Watery Grey),10999.0,8.0,16.51,MediaTek Helio G85 Processor,4.0,128.0,6000.0,256.0,4.4
+realme,realme C25s (Watery Blue),9999.0,8.0,16.51,MediaTek Helio G85 Processor,4.0,64.0,6000.0,256.0,4.4
+realme,realme 8 Pro (Infinite Black),19999.0,16.0,16.26,Qualcomm Snapdragon 720G Processor,8.0,128.0,4500.0,256.0,4.3
+realme,realme 8 Pro (Infinite Black),17999.0,16.0,16.26,Qualcomm Snapdragon 720G Processor,6.0,128.0,4500.0,256.0,4.3
+SAMSUNG,SAMSUNG Galaxy F62 (Laser Blue),25999.0,32.0,17.02,Exynos 9825 Processor,8.0,128.0,7000.0,1000.0,4.3
+GIONEE,GIONEE Max Pro (Red),6499.0,8.0,16.56,Octa Core Processor,3.0,32.0,6000.0,256.0,3.9
+realme,realme 8 Pro (Infinite Blue),19999.0,16.0,16.26,Qualcomm Snapdragon 720G Processor,8.0,128.0,4500.0,256.0,4.3
+OPPO,OPPO A31 (Fantasy White),12486.0,8.0,16.51,MediaTek Helio P35 Octa Core Processor,4.0,64.0,4230.0,256.0,4.3
+REDMI,REDMI 9i (Sea Blue),9831.0,5.0,16.59,MediaTek Helio G25 Processor,4.0,128.0,5000.0,512.0,4.3
+realme,realme X7 5G (Space Silver),17999.0,16.0,16.33,MediaTek Dimensity 800U Processor,6.0,128.0,4310.0,0.0,4.3
+SAMSUNG,SAMSUNG Galaxy M01 (Black),7799.0,5.0,14.48,,3.0,32.0,4000.0,512.0,4.2
+REDMI,REDMI 9 Power (Blazing Blue),12999.0,8.0,16.59,,6.0,128.0,6000.0,0.0,4.3
+ViVO,ViVO Y31 (Ocean Blue),16490.0,16.0,16.71,Qualcomm Snapdragon 662 Processor,6.0,128.0,5000.0,1000.0,4.4
+ViVO,ViVO Y31 (Racing Black),16490.0,16.0,16.71,Qualcomm Snapdragon 662 Processor,6.0,128.0,5000.0,1000.0,4.4
+realme,realme X7 5G (Nebula),19999.0,16.0,16.33,MediaTek Dimensity 800U Processor,8.0,128.0,4310.0,0.0,4.3
+realme,realme X7 5G (Space Silver),19999.0,16.0,16.33,MediaTek Dimensity 800U Processor,8.0,128.0,4310.0,0.0,4.3
+Redmi,Redmi 9A (Sea Blue),7849.0,5.0,16.59,MediaTek Helio G25 Processor,3.0,32.0,5000.0,512.0,4.3
+ViVO,ViVO Y91i (Ocean Blue),7490.0,5.0,15.8,MTK Helio P22 Processor,2.0,32.0,4030.0,256.0,4.3
+POCO,POCO X3 (Shadow Gray),16999.0,20.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,128.0,6000.0,512.0,4.4
+GIONEE,GIONEE F8 Neo (Black),5388.0,5.0,13.84,Unisoc SC9863 Processor,2.0,32.0,3000.0,256.0,3.9
+GIONEE,GIONEE F8 Neo (Blue),5299.0,5.0,13.84,Unisoc SC9863 Processor,2.0,32.0,3000.0,256.0,3.9
+realme,realme 7 Pro (Mirror Blue),17999.0,32.0,16.26,Qualcomm Snapdragon 720G Processor,8.0,128.0,4500.0,256.0,4.4
+OPPO,OPPO A53 (Electric Black),10990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,4.0,64.0,5000.0,256.0,4.5
+OPPO,OPPO A53 (Fancy Blue),10990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,4.0,64.0,5000.0,256.0,4.5
+realme,realme Narzo 20A (Glory Silver),9499.0,8.0,16.51,Qualcomm Snapdragon 665 Processor,4.0,64.0,5000.0,256.0,4.4
+ViVO,ViVO Y30 (Emerald Black),14990.0,8.0,16.43,MediaTek Helio P35 Processor,6.0,128.0,5000.0,256.0,4.3
+Infinix,Infinix Smart 4 Plus (Midnight Black),7999.0,8.0,17.32,Mediatek Helio A25 Processor,3.0,32.0,6000.0,256.0,4.4
+realme,realme Narzo 20A (Glory Silver),8499.0,8.0,16.51,Qualcomm Snapdragon 665 Processor,3.0,32.0,5000.0,256.0,4.3
+realme,realme Narzo 20A (Victory Blue),8499.0,8.0,16.51,Qualcomm Snapdragon 665 Processor,3.0,32.0,5000.0,256.0,4.3
+realme,realme C15 Qualcomm Edition (Power Silver),8999.0,8.0,16.56,Qualcomm Snapdragon 460 Processor,3.0,32.0,6000.0,256.0,4.3
+Infinix,Infinix Smart 4 Plus (Ocean Wave),7999.0,8.0,17.32,Mediatek Helio A25 Processor,3.0,32.0,6000.0,256.0,4.4
+REDMI,REDMI 9 Power (Mighty Black),12999.0,8.0,16.59,,6.0,128.0,6000.0,0.0,4.3
+OPPO,OPPO A53 (Fairy White),10990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,4.0,64.0,5000.0,256.0,4.5
+OPPO,OPPO A53 (Fancy Blue),12990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,6.0,128.0,5000.0,256.0,4.4
+ViVO,ViVO Y30 (Dazzle Blue),14990.0,8.0,16.43,MediaTek Helio P35 Processor,6.0,128.0,5000.0,256.0,4.3
+POCO,POCO M2 (Pitch Black),10499.0,8.0,16.59,MediaTek Helio G80 Processor,6.0,64.0,5000.0,512.0,4.3
+REDMI,REDMI Note 9 (Scarlet Red),11900.0,13.0,16.59,MediaTek Helio G85 Processor,4.0,64.0,5020.0,512.0,4.3
+OPPO,OPPO A53 (Electric Black),12990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,6.0,128.0,5000.0,256.0,4.4
+OPPO,OPPO A53 (Fairy White),12990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,6.0,128.0,5000.0,256.0,4.4
+LG,LG W31 Plus (Midnight Blue),8299.0,8.0,16.56,MediaTek Helio G25 Processor,4.0,128.0,4000.0,512.0,4.1
+Infinix,,10999.0,8.0,17.32,MediaTek Helio G85 Processor,6.0,64.0,6000.0,256.0,4.3
+realme,realme 8 Pro (Infinite Blue),17999.0,16.0,16.26,Qualcomm Snapdragon 720G Processor,6.0,128.0,4500.0,256.0,4.3
+realme,realme C11 (Rich Grey),7499.0,5.0,16.51,Mediatek Helio G35 Processor,2.0,32.0,5000.0,256.0,4.4
+realme,realme C11 (Rich Green),7499.0,5.0,16.51,Mediatek Helio G35 Processor,2.0,32.0,5000.0,256.0,4.4
+POCO,POCO M2 Pro (Two Shades of Black),12999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,4.0,64.0,5000.0,512.0,4.4
+POCO,POCO X3 Pro (Steel Blue),20999.0,20.0,16.94,Qualcomm Snapdragon 860 Processor,8.0,128.0,5160.0,1000.0,4.4
+ViVO,ViVO Y91i (Fusion Black),7490.0,5.0,15.8,MTK Helio P22 Processor,2.0,32.0,4030.0,256.0,4.3
+REDMI,REDMI 9 Power (Blazing Blue),11999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,128.0,6000.0,0.0,4.3
+SAMSUNG,SAMSUNG Galaxy A21s (Blue),12999.0,13.0,16.51,Exynos 850 Octa Core Processor,4.0,64.0,5000.0,512.0,4.2
+SAMSUNG,SAMSUNG M31 (Ocean Blue),15700.0,32.0,16.26,Samsung Exynos 9 Octa 9611 Processor,6.0,128.0,6000.0,512.0,4.3
+Infinix,Infinix Hot 10S (Heart Of Ocean),10999.0,8.0,17.32,MediaTek Helio G85 Processor,6.0,64.0,6000.0,256.0,4.3
+Tecno,Tecno Spark 6 Go (Mystery White),8699.0,8.0,16.56,MediaTek Helio A25 Processor,4.0,64.0,5000.0,512.0,4.3
+Tecno,Tecno Spark 6 Go (Aqua Blue),8699.0,8.0,16.56,MediaTek Helio A25 Processor,4.0,64.0,5000.0,512.0,4.3
+Panasonic,Panasonic Eluga I7 (Black),5299.0,8.0,13.87,MediaTek Quad Core Processor,2.0,16.0,4000.0,256.0,3.7
+POCO,POCO M2 Pro (Green and Greener),15999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,6.0,128.0,5000.0,512.0,4.4
+OPPO,OPPO A53s 5G (Ink Black),16990.0,8.0,16.56,MediaTek Dimensity 700 Processor,8.0,128.0,5000.0,1000.0,4.3
+Panasonic,Panasonic Eluga I7 (Black),5299.0,8.0,13.87,MediaTek Quad Core Processor,2.0,16.0,4000.0,256.0,3.7
+POCO,POCO M2 Pro (Green and Greener),15999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,6.0,128.0,5000.0,512.0,4.4
+OPPO,OPPO A53s 5G (Ink Black),16990.0,8.0,16.56,MediaTek Dimensity 700 Processor,8.0,128.0,5000.0,1000.0,4.3
+POCO,POCO M2 Pro (Out of the Blue),15999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,6.0,128.0,5000.0,512.0,4.4
+SAMSUNG,SAMSUNG Galaxy M31 (Space Black),15800.0,32.0,16.26,Samsung Exynos 9 Octa 9611 Processor,6.0,128.0,6000.0,512.0,4.3
+OPPO,OPPO A31 (Fantasy White),12458.0,8.0,16.51,MediaTek Helio P35 Octa Core Processor,6.0,128.0,4230.0,256.0,4.3
+SAMSUNG,SAMSUNG Galaxy F02s (Diamond Blue),8999.0,5.0,16.55,,3.0,32.0,5000.0,1000.0,4.2
+Panasonic,Panasonic ELUGA I6 (Black),5001.0,5.0,13.84,MediaTek Processor,2.0,16.0,3000.0,256.0,3.7
+POCO,POCO X3 (Cobalt Blue),16999.0,20.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,128.0,6000.0,512.0,4.4
+realme,realme 8 Pro (Illuminating Yellow),17999.0,16.0,16.26,Qualcomm Snapdragon 720G Processor,6.0,128.0,4500.0,256.0,4.3
+MOTOROLA,MOTOROLA G30 (Pastel Sky),10999.0,13.0,16.54,Snapdragon 662 Processor,4.0,64.0,5000.0,0.0,4.1
+MOTOROLA,MOTOROLA E7 Plus (Misty Blue),8999.0,8.0,16.51,Qualcomm Snapdragon 460 Processor,4.0,64.0,5000.0,512.0,4.2
+SAMSUNG,SAMSUNG Galaxy M01 (Red),7799.0,5.0,14.48,,3.0,32.0,4000.0,512.0,4.2
+SAMSUNG,SAMSUNG Galaxy A31 (Prism Crush Blue),16999.0,20.0,16.26,,6.0,128.0,5000.0,512.0,4.3
+realme,realme 7 Pro (Sun Kissed Leather),17999.0,32.0,16.26,Qualcomm Snapdragon 720G Processor,8.0,128.0,4500.0,256.0,4.4
+realme,realme 7 Pro (Mirror Silver),17999.0,32.0,16.26,Qualcomm Snapdragon 720G Processor,8.0,128.0,4500.0,256.0,4.4
+realme,realme X7 Max (Asteroid Black),26999.0,16.0,16.33,MediaTek Dimensity 1200 Processor,8.0,128.0,4500.0,0.0,4.4
+realme,realme 7 Pro (Mirror Blue),15999.0,32.0,16.26,Qualcomm Snapdragon 720G Processor,6.0,128.0,4500.0,256.0,4.4
+realme,realme 7 Pro (Mirror Silver),15999.0,32.0,16.26,Qualcomm Snapdragon 720G Processor,6.0,128.0,4500.0,256.0,4.4
+SAMSUNG,SAMSUNG Galaxy M31 (Space Black),15685.0,32.0,16.26,Samsung Exynos 9 Octa 9611 Processor,6.0,64.0,6000.0,512.0,4.3
+Tecno,Tecno Spark Go 2020 (Mystery White),6999.0,8.0,16.56,MediaTek Helio A20 Quad Core Processor,2.0,32.0,5000.0,256.0,4.4
+POCO,POCO M2 (Pitch Black),11499.0,8.0,16.59,MediaTek Helio G80 Processor,6.0,128.0,5000.0,512.0,4.3
+POCO,POCO M2 (Brick Red),11499.0,8.0,16.59,MediaTek Helio G80 Processor,6.0,128.0,5000.0,512.0,4.3
+Tecno,Tecno Spark Go 2020 (Aqua Blue),6999.0,8.0,16.56,MediaTek Helio A20 Quad Core Processor,2.0,32.0,5000.0,256.0,4.4
+Tecno,Tecno Spark Go 2020 (Ice jadeite),6999.0,8.0,16.56,MediaTek Helio A20 Quad Core Processor,2.0,32.0,5000.0,256.0,4.4
+REDMI,REDMI 9 Power (Electric Green),11999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,128.0,6000.0,0.0,4.3
+Redmi,Redmi 9A (Nature Green),7700.0,5.0,16.59,MediaTek Helio G25 Processor,3.0,32.0,5000.0,512.0,4.3
+Google,Google Pixel 4a (Just Black),26999.0,8.0,14.76,Qualcomm Snapdragon 730G Processor,6.0,128.0,3140.0,0.0,4.6
+Itel,Itel A48 (Gradation Green),5899.0,5.0,15.49,Quad Core Processor,2.0,32.0,3000.0,128.0,4.0
+SAMSUNG,SAMSUNG Galaxy F62 (Laser Green),25999.0,32.0,17.02,Exynos 9825 Processor,8.0,128.0,7000.0,1000.0,4.3
+SAMSUNG,SAMSUNG Galaxy F12 (Sea Green),9999.0,8.0,16.55,Exynos 850 Processor,4.0,64.0,6000.0,512.0,4.2
+POCO,POCO M2 Pro (Green and Greener),13999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,6.0,64.0,5000.0,512.0,4.4
+SAMSUNG,SAMSUNG Galaxy F12 (Celestial Black),9999.0,8.0,16.55,Exynos 850 Processor,4.0,64.0,6000.0,512.0,4.2
+REDMI,REDMI Note 9 (Arctic White),12999.0,13.0,16.59,MediaTek Helio G85 Processor,4.0,128.0,5020.0,512.0,4.3
+POCO,POCO X3 Pro (Steel Blue),18999.0,20.0,16.94,Qualcomm Snapdragon 860 Processor,6.0,128.0,5160.0,1000.0,4.4
+OPPO,OPPO A54 (Crystal Black),14490.0,16.0,16.54,MediaTek Helio P35 Processor,4.0,128.0,5000.0,256.0,4.3
+OPPO,OPPO A54 (Moonlight Gold),13490.0,16.0,16.54,MediaTek Helio P35 Processor,4.0,64.0,5000.0,256.0,4.3
+MOTOROLA,MOTOROLA G60 (Frosted Champagne),17999.0,32.0,17.22,Qualcomm Snapdragon 732G Processor,6.0,128.0,6000.0,0.0,4.2
+Micromax,Micromax IN 1 (Purple),11499.0,8.0,16.94,MediaTek Helio G80 Processor,6.0,128.0,5000.0,256.0,4.3
+Micromax,Micromax IN 1 (Blue),11499.0,8.0,16.94,MediaTek Helio G80 Processor,6.0,128.0,5000.0,256.0,4.3
+Micromax,Micromax IN 1 (Purple),9999.0,8.0,16.94,MediaTek Helio G80 Processor,4.0,64.0,5000.0,256.0,4.3
+OPPO,OPPO A54 (Moonlight Gold),15990.0,16.0,16.54,MediaTek Helio P35 Processor,6.0,128.0,5000.0,256.0,4.3
+OPPO,OPPO A54 (Moonlight Gold),14490.0,16.0,16.54,MediaTek Helio P35 Processor,4.0,128.0,5000.0,256.0,4.3
+MOTOROLA,MOTOROLA G9 Power (Electric Violet),11999.0,16.0,17.22,Qualcomm Snapdragon 662 Processor,4.0,64.0,6000.0,512.0,4.1
+POCO,POCO M2 Pro (Two Shades of Black),15999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,6.0,128.0,5000.0,512.0,4.4
+SAMSUNG,SAMSUNG Galaxy M02 (Blue),7672.0,5.0,16.64,MediaTek MT6739 Processor,2.0,32.0,5000.0,0.0,4.1
+OPPO,OPPO A31 (Lake Green),11990.0,8.0,16.51,MediaTek Helio P35 Octa Core Processor,6.0,128.0,4230.0,256.0,4.3
+REDMI,REDMI Note 9 (Arctic White),15995.0,13.0,16.59,MediaTek Helio G85 Processor,6.0,128.0,5020.0,512.0,4.3
+Redmi,Redmi 8A Dual (Midnight Grey),7999.0,8.0,15.8,Qualcomm Snapdragon 439 Processor,3.0,32.0,5000.0,512.0,4.2
+SAMSUNG,SAMSUNG Galaxy M21 (Raven Black),13827.0,20.0,16.26,,4.0,64.0,6000.0,512.0,4.3
+REDMI,REDMI 9 Power (Fiery Red),12999.0,8.0,16.59,,6.0,128.0,6000.0,0.0,4.3
+realme,realme 7i (Fusion Green),11999.0,16.0,16.51,Qualcomm Snapdragon 662 Processor,4.0,64.0,5000.0,256.0,4.3
+realme,realme 7i (Fusion Blue),11999.0,16.0,16.51,Qualcomm Snapdragon 662 Processor,4.0,64.0,5000.0,256.0,4.3
+SAMSUNG,SAMSUNG Galaxy F41 (Fusion Black),14499.0,32.0,16.26,Exynos 9611 Processor,6.0,128.0,6000.0,512.0,4.3
+OPPO,OPPO A53 (Mint Cream),15990.0,16.0,16.51,Qualcomm Snapdragon 460 Processor,4.0,64.0,5000.0,256.0,4.5
+Panasonic,Panasonic Eluga I8 (Charcoal Black),6999.0,8.0,15.8,Meditek Processor,3.0,32.0,4000.0,512.0,3.9
+realme,realme Narzo 20 Pro (White Knight),14999.0,16.0,16.51,MediaTek Helio G95 Processor,6.0,64.0,4500.0,256.0,4.3
+realme,realme Narzo 20 Pro (Black Ninja),16999.0,16.0,16.51,MediaTek Helio G95 Processor,8.0,128.0,4500.0,256.0,4.3
+realme,realme 3i (Diamond Red),8499.0,13.0,15.8,,3.0,32.0,4230.0,256.0,4.4
+Redmi,Redmi 8 (Emerald Green),10785.0,8.0,15.8,Qualcomm Snapdragon 439 Processor,4.0,64.0,5000.0,512.0,4.4
+ViVO,ViVO Y20A (Nebula Blue),11490.0,8.0,16.54,Qualcomm Snapdragon 439 Processor,3.0,64.0,5000.0,256.0,4.3
+OPPO,OPPO F19 Pro (Crystal Silver),23490.0,16.0,16.33,,8.0,256.0,4310.0,256.0,4.3
+POCO,POCO X3 (Shadow Gray),18999.0,20.0,16.94,Qualcomm Snapdragon 732G Processor,8.0,128.0,6000.0,512.0,4.3
+Itel,Itel A48 (Gradation Black),5899.0,5.0,15.49,Quad Core Processor,2.0,32.0,3000.0,128.0,4.0
+realme,realme 7 (Mist Blue),13999.0,16.0,16.51,MediaTek Helio G95 Processor,6.0,64.0,5000.0,256.0,4.3
+OPPO,OPPO A15 (Dynamic Black),9990.0,5.0,16.56,,3.0,32.0,4230.0,256.0,4.3
+POCO,POCO C3 (Matte Black),7499.0,5.0,16.59,Mediatek Helio G35 Processor,3.0,32.0,5000.0,512.0,4.3
+realme,realme 7i (Fusion Green),12999.0,16.0,16.51,Qualcomm Snapdragon 662 Processor,4.0,128.0,5000.0,256.0,4.3
+Tecno,Tecno Camon 15 (SHOAL GOLD),9999.0,16.0,16.64, Helio P22 MT6762 Processor,4.0,64.0,5000.0,256.0,4.2
+realme,realme C15 (Power Blue),8999.0,8.0,16.56,Mediatek Helio G35 Processor,3.0,32.0,6000.0,256.0,4.3
+realme,realme 7i (Fusion Green),11999.0,16.0,16.51,Qualcomm Snapdragon 662 Processor,4.0,64.0,5000.0,256.0,4.3
+OPPO,OPPO A54 (Crystal Black),13490.0,16.0,16.54,MediaTek Helio P35 Processor,4.0,64.0,5000.0,256.0,4.3
+Nokia,Nokia C3 (Nordic Blue),6749.0,5.0,15.21,SC9863A Octa Core Processor,2.0,16.0,3040.0,128.0,3.9
+OPPO,OPPO A54 (Starry Blue),14490.0,16.0,16.54,MediaTek Helio P35 Processor,4.0,128.0,5000.0,256.0,4.3
+OPPO,OPPO A54 (Starry Blue),13490.0,16.0,16.54,MediaTek Helio P35 Processor,4.0,64.0,5000.0,256.0,4.3
+SAMSUNG,SAMSUNG Galaxy A31 (Prism Crush Black),16999.0,20.0,16.26,,6.0,128.0,5000.0,512.0,4.3
+REDMI,REDMI Note 10 Pro Max (Vintage Bronze),21499.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,128.0,5020.0,512.0,4.3
+Tecno,Tecno POVA (Magic Blue),10499.0,8.0,17.27,MediaTek Helio G80 Processor,4.0,64.0,6000.0,256.0,4.3
+realme,realme C15 (Power Silver),9999.0,8.0,16.56,Mediatek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.4
+ViVO,ViVO Z1Pro (Sonic Blue),14990.0,32.0,16.59,,4.0,64.0,5000.0,256.0,4.5
+ViVO,ViVO Z1Pro (Sonic Black),15990.0,32.0,16.59,,6.0,64.0,5000.0,256.0,4.5
+ViVO,ViVO Z1Pro (Sonic Black),14990.0,32.0,16.59,,4.0,64.0,5000.0,256.0,4.5
+SAMSUNG,SAMSUNG Galaxy M11 (Metallic Blue),10085.0,8.0,16.26,,4.0,64.0,5000.0,512.0,4.3
+realme,realme 3i (Diamond Black),10499.0,13.0,15.8,,4.0,64.0,4230.0,256.0,4.4
+POCO,POCO M2 (Brick Red),10499.0,8.0,16.59,MediaTek Helio G80 Processor,6.0,64.0,5000.0,512.0,4.3
+ViVO,ViVO Y20A (Dawn White),11490.0,8.0,16.54,Qualcomm Snapdragon 439 Processor,3.0,64.0,5000.0,256.0,4.3
+POCO,POCO C3 (Lime Green),8499.0,5.0,16.59,Mediatek Helio G35 Processor,4.0,64.0,5000.0,512.0,4.3
+GIONEE,GIONEE Max Pro (Black),6499.0,8.0,16.56,Octa Core Processor,3.0,32.0,6000.0,256.0,3.9
+REDMI,REDMI 9 Power (Fiery Red),11999.0,8.0,16.59,Qualcomm Snapdragon 662 Processor,4.0,128.0,6000.0,0.0,4.3
+LAVA,LAVA Z61 Pro (Champagne Gold),5777.0,5.0,13.84,Unisoc Octa Core Processor,2.0,16.0,3100.0,128.0,4.0
+realme,realme 7 (Mist White),13999.0,16.0,16.51,MediaTek Helio G95 Processor,6.0,64.0,5000.0,256.0,4.3
+OPPO,OPPO A31 (Mystery Black),12097.0,8.0,16.51,MediaTek Helio P35 Octa Core Processor,6.0,128.0,4230.0,256.0,4.3
+ViVO,ViVO V21 5G (Dusk Blue),32990.0,44.0,16.36,MediaTek Dimensity 800U Processor,8.0,256.0,4000.0,0.0,4.3
+realme,realme C15 (Power Silver),8999.0,8.0,16.56,Mediatek Helio G35 Processor,3.0,32.0,6000.0,256.0,4.3
+POCO,POCO M2 (Slate Blue),11499.0,8.0,16.59,MediaTek Helio G80 Processor,6.0,128.0,5000.0,512.0,4.3
+ViVO,ViVO Z1Pro (Sonic Blue),15990.0,32.0,16.59,,6.0,64.0,5000.0,256.0,4.5
+REDMI,REDMI Note 9 (Pebble Grey),13299.0,13.0,16.59,MediaTek Helio G85 Processor,4.0,128.0,5020.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy A31 (Prism Crush White),16999.0,20.0,16.26,,6.0,128.0,5000.0,512.0,4.3
+ViVO,ViVO V21 5G (Sunset Dazzle),29990.0,44.0,16.36,MediaTek Dimensity 800U Processor,8.0,128.0,4000.0,0.0,4.3
+ViVO,ViVO V21 5G (Sunset Dazzle),32990.0,44.0,16.36,MediaTek Dimensity 800U Processor,8.0,256.0,4000.0,0.0,4.3
+ViVO,ViVO V21 5G (Arctic White),29990.0,44.0,16.36,MediaTek Dimensity 800U Processor,8.0,128.0,4000.0,0.0,4.3
+realme,realme Narzo 20 Pro (Black Ninja),14999.0,16.0,16.51,MediaTek Helio G95 Processor,6.0,64.0,4500.0,256.0,4.3
+realme,realme Narzo 20 Pro (White Knight),16999.0,16.0,16.51,MediaTek Helio G95 Processor,8.0,128.0,4500.0,256.0,4.3
+realme,realme Narzo 20 Pro (Black Ninja),16999.0,16.0,16.51,MediaTek Helio G95 Processor,8.0,128.0,4500.0,256.0,4.3
+REDMI,REDMI 8A Dual (Midnight Grey),7299.0,8.0,15.8,Qualcomm Snapdragon 439 Processor,2.0,32.0,5000.0,512.0,4.3
+GIONEE,GIONEE F11 (Blue),6698.0,5.0,15.49,,3.0,32.0,5000.0,256.0,3.9
+REDMI,REDMI Note 10 (Shadow Black),13387.0,13.0,16.33,Qualcomm Snapdragon 678 Processor,4.0,64.0,5000.0,512.0,4.3
+ViVO,ViVO V21 5G (Dusk Blue),29990.0,44.0,16.36,MediaTek Dimensity 800U Processor,8.0,128.0,4000.0,0.0,4.3
+ViVO,ViVO V21 5G (Arctic White),32990.0,44.0,16.36,MediaTek Dimensity 800U Processor,8.0,256.0,4000.0,0.0,4.3
+POCO,POCO M2 Pro (Out of the Blue),12999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,4.0,64.0,5000.0,512.0,4.4
+LAVA,LAVA Z61 Pro (Lavender Blue),5777.0,5.0,13.84,Unisoc Octa Core Processor,2.0,16.0,3100.0,128.0,4.0
+OPPO,OPPO F19 Pro (Fluid Black),23990.0,16.0,16.33,,8.0,128.0,4310.0,256.0,4.3
+OPPO,OPPO F19 Pro (Crystal Silver),21490.0,16.0,16.33,,8.0,128.0,4310.0,256.0,4.3
+MOTOROLA,MOTOROLA G40 Fusion (Dynamic Gray),14499.0,16.0,17.22,Qualcomm Snapdragon 732G Processor,4.0,64.0,6000.0,0.0,4.3
+OPPO,OPPO F19 (Space Silver),18990.0,16.0,16.33,Qualcomm Snapdragon 662 Processor,6.0,128.0,5000.0,256.0,4.2
+MOTOROLA,MOTOROLA E7 Power (Coral Red),6999.0,5.0,16.54,MediaTek Helio G25 Processor,2.0,32.0,5000.0,1000.0,4.2
+POCO,POCO C3 (Arctic Blue),7499.0,5.0,16.59,Mediatek Helio G35 Processor,3.0,32.0,5000.0,512.0,4.3
+REDMI,REDMI Note 10S (Shadow Black),16989.0,13.0,16.33,MediaTek Helio G95 Processor,6.0,128.0,5000.0,0.0,4.1
+POCO,POCO M2 Pro (Green and Greener),12999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,4.0,64.0,5000.0,512.0,4.4
+MOTOROLA,MOTOROLA G40 Fusion (Frosted Champagne),14499.0,16.0,17.22,Qualcomm Snapdragon 732G Processor,4.0,64.0,6000.0,0.0,4.3
+LAVA,LAVA Z1 (Coral Red),5199.0,5.0,12.7,MediaTek Helio A20 Processor,2.0,16.0,3100.0,256.0,3.8
+OPPO, 5G (Space Silver),25990.0,16.0,16.33,MediaTek Dimensity 800U Processor,8.0,128.0,4310.0,256.0,4.3
+realme,realme 7i (Fusion Blue),14999.0,16.0,16.51,Qualcomm Snapdragon 662 Processor,4.0,128.0,5000.0,256.0,4.3
+SAMSUNG,SAMSUNG Galaxy A12 (Blue),12999.0,8.0,16.51,,4.0,64.0,5000.0,1000.0,4.2
+SAMSUNG,SAMSUNG M02s (Red),9273.0,5.0,16.51,Qualcomm Snapdragon 450 Processor,3.0,32.0,5000.0,0.0,4.1
+Itel,Itel A48 (Gradation Purple),5899.0,5.0,15.49,Quad Core Processor,2.0,32.0,3000.0,128.0,4.0
+SAMSUNG,SAMSUNG Galaxy A51 (Prism Crush Blue),22499.0,32.0,16.51,Exynos 9611 Processor,8.0,128.0,4000.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy A51 (Prism Crush Blue),22499.0,32.0,16.51,Exynos 9611 Processor,8.0,128.0,4000.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy A71 (Haze Crush Silver),27499.0,32.0,17.02,Qualcomm SM7150 Processor,8.0,128.0,4500.0,512.0,4.4
+POCO,POCO X3 (Cobalt Blue),18999.0,20.0,16.94,Qualcomm Snapdragon 732G Processor,8.0,128.0,6000.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy M21 (Midnight Blue),13630.0,20.0,16.26,,4.0,64.0,6000.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy M31 (Ocean Blue),16175.0,32.0,16.26,Samsung Exynos 9 Octa 9611 Processor,6.0,64.0,6000.0,512.0,4.3
+OPPO,OPPO A11K (Deep Blue),8490.0,5.0,15.8,MediaTek Helio P35 Octa Core Processor,2.0,32.0,4230.0,256.0,4.2
+LAVA,LAVA Z61 Pro (Amber Red),5777.0,5.0,13.84,Unisoc Octa Core Processor,2.0,16.0,3100.0,128.0,4.0
+Redmi,Redmi 9A (Nature Green),7949.0,5.0,16.59,MediaTek Helio G25 Processor,3.0,32.0,5000.0,512.0,4.3
+SAMSUNG,SAMSUNG M31s (Mirage Blue),21629.0,32.0,16.51,Exynos 9611 octa core processor Processor,8.0,128.0,6000.0,512.0,4.2
+LAVA,LAVA Z66 (Marine Blue),7227.0,13.0,15.44,Octa Core Processor,3.0,32.0,3950.0,128.0,4.0
+LAVA,LAVA Z66 (Berry Red),7227.0,13.0,15.44,Octa Core Processor,3.0,32.0,3950.0,128.0,4.0
+OPPO, 5G (Fluid Black),25990.0,16.0,16.33,MediaTek Dimensity 800U Processor,8.0,128.0,4310.0,256.0,4.3
+realme,realme 7 (Mist White),15999.0,16.0,16.51,MediaTek Helio G95 Processor,8.0,128.0,5000.0,256.0,4.3
+Mi,Mi 10i (Midnight Black),25236.0,16.0,16.94,,8.0,128.0,4820.0,0.0,4.3
+OPPO,OPPO A74 5G (Fantastic Purple),18288.0,8.0,16.48,,6.0,128.0,5000.0,0.0,4.6
+LG,LG W31 (Midnight Blue),7999.0,8.0,16.56,MediaTek Helio G25 Processor,4.0,64.0,4000.0,512.0,4.1
+REDMI,REDMI Note 10 (Frost White),16171.0,13.0,16.33,Qualcomm Snapdragon 678 Processor,6.0,128.0,5000.0,512.0,4.3
+REDMI,REDMI Note 10 (Frost White),13375.0,13.0,16.33,Qualcomm Snapdragon 678 Processor,4.0,64.0,5000.0,512.0,4.3
+ViVO,ViVO Y20i (Nebula Blue),11490.0,8.0,16.54,Qualcomm Snapdragon 460 Processor,3.0,64.0,5000.0,256.0,4.4
+SAMSUNG,SAMSUNG Galaxy A12 (Blue),13999.0,8.0,16.51,,4.0,128.0,5000.0,1000.0,4.2
+REDMI,REDMI 8A Dual (Sea Blue),7990.0,8.0,15.8,Qualcomm Snapdragon 439 Processor,2.0,32.0,5000.0,512.0,4.3
+realme,realme X7 Max (Mercury Silver),26999.0,16.0,16.33,MediaTek Dimensity 1200 Processor,8.0,128.0,4500.0,0.0,4.4
+realme,realme X7 Max (Mercury Silver),29999.0,16.0,16.33,MediaTek Dimensity 1200 Processor,12.0,256.0,4500.0,0.0,4.4
+realme,realme X7 Max (Asteroid Black),29999.0,16.0,16.33,MediaTek Dimensity 1200 Processor,12.0,256.0,4500.0,0.0,4.4
+REDMI,REDMI 9i (Midnight Black),9299.0,5.0,16.59,MediaTek Helio G25 Processor,4.0,128.0,5000.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy M11 (Violet),9952.0,8.0,16.26,,4.0,64.0,5000.0,512.0,4.3
+REDMI,REDMI Note 10 (Aqua Green),15987.0,13.0,16.33,Qualcomm Snapdragon 678 Processor,6.0,128.0,5000.0,512.0,4.3
+MOTOROLA,MOTOROLA G40 Fusion (Frosted Champagne),16499.0,16.0,17.22,Qualcomm Snapdragon 732G Processor,6.0,128.0,6000.0,0.0,4.3
+realme,realme X7 Max (Milky Way),29999.0,16.0,16.33,MediaTek Dimensity 1200 Processor,12.0,256.0,4500.0,0.0,4.4
+realme,realme X7 Max (Milky Way),26999.0,16.0,16.33,MediaTek Dimensity 1200 Processor,8.0,128.0,4500.0,0.0,4.4
+ViVO,ViVO Z1Pro (Sonic Blue),17990.0,32.0,16.59,,6.0,128.0,5000.0,256.0,4.5
+Tecno,Tecno Camon 16 (Purist Blue),11499.0,16.0,17.27,MediaTek Helio G70 Processor,4.0,64.0,5000.0,256.0,4.3
+ViVO,ViVO Y73 (Diamond Flare),20990.0,16.0,16.36,MediaTek Helio G95 Processor,8.0,128.0,4000.0,0.0,4.3
+ViVO,ViVO Y73 (Roman Black),20990.0,16.0,16.36,MediaTek Helio G95 Processor,8.0,128.0,4000.0,0.0,4.3
+Tecno,Tecno Camon 16 (Cloud White),11499.0,16.0,17.27,MediaTek Helio G70 Processor,4.0,64.0,5000.0,256.0,4.3
+IQOO,IQOO 3 (Tornado Black),27990.0,16.0,16.36,Qualcomm Snapdragon 865 Processor,8.0,256.0,4440.0,0.0,4.4
+OPPO,OPPO A11K (Flowing Silver),8490.0,5.0,15.8,MediaTek Helio P35 Octa Core Processor,2.0,32.0,4230.0,256.0,4.2
+Nokia,4 (Charcoal Grey),9999.0,5.0,16.51,MediaTek Helio P22 Processor,3.0,64.0,4500.0,512.0,4.1
+OPPO,OPPO A15 (Mystery Blue),9990.0,5.0,16.56,,3.0,32.0,4230.0,256.0,4.3
+Mi,Mi 10i (Midnight Black),22591.0,16.0,16.94,,6.0,128.0,4820.0,0.0,4.4
+REDMI,REDMI Note 10 (Shadow Black),16101.0,13.0,16.33,Qualcomm Snapdragon 678 Processor,6.0,128.0,5000.0,512.0,4.3
+SAMSUNG,SAMSUNG M02s (Blue),9996.0,5.0,16.51,Qualcomm Snapdragon 450 Processor,4.0,64.0,5000.0,0.0,4.2
+REDMI,REDMI 9 Prime (Matte Black),10999.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,128.0,5020.0,512.0,4.4
+realme,realme C3 (Volcano Grey),8999.0,5.0,16.56,Helio G70 Processor,3.0,32.0,5000.0,256.0,4.4
+realme,realme C3 (Volcano Grey),9999.0,5.0,16.56,Helio G70 Processor,4.0,64.0,5000.0,256.0,4.4
+realme,realme C3 (Frozen Blue),9999.0,5.0,16.56,Helio G70 Processor,4.0,64.0,5000.0,256.0,4.4
+OPPO,OPPO A74 5G BLACK (Fluid Black),17983.0,8.0,16.48,,6.0,128.0,5000.0,0.0,4.1
+SAMSUNG,SAMSUNG Galaxy M02 (Red),8285.0,5.0,16.64,MediaTek MT6739 Processor,3.0,32.0,5000.0,0.0,4.0
+realme,realme 7 (Mist Blue),15999.0,16.0,16.51,MediaTek Helio G95 Processor,8.0,128.0,5000.0,256.0,4.3
+OPPO,OPPO F19 Pro (Fluid Black),23490.0,16.0,16.33,,8.0,256.0,4310.0,256.0,4.3
+SAMSUNG,SAMSUNG Galaxy M02 (Red),8285.0,5.0,16.64,MediaTek MT6739 Processor,3.0,32.0,5000.0,0.0,4.0
+realme,realme 7 (Mist Blue),15999.0,16.0,16.51,MediaTek Helio G95 Processor,8.0,128.0,5000.0,256.0,4.3
+REDMI,REDMI 9 Prime (Matte Black),10999.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,128.0,5020.0,512.0,4.4
+OPPO,OPPO F19 Pro (Fluid Black),23490.0,16.0,16.33,,8.0,256.0,4310.0,256.0,4.3
+OPPO,OPPO F19 (Prism Black),18990.0,16.0,16.33,Qualcomm Snapdragon 662 Processor,6.0,128.0,5000.0,256.0,4.2
+Mi,Mi 10i (Pacific Sunrise),25789.0,16.0,16.94,,8.0,128.0,4820.0,0.0,4.3
+LAVA,LAVA Z66 (Midnight Blue),8199.0,13.0,15.44,Octa Core Processor,3.0,32.0,3950.0,128.0,4.0
+SAMSUNG,SAMSUNG Galaxy F62 (Laser Blue),23999.0,32.0,17.02,Exynos 9825 Processor,6.0,128.0,7000.0,1000.0,4.2
+OPPO,OPPO A74 5G BLACK (Fluid Black),17983.0,8.0,16.48,,6.0,128.0,5000.0,0.0,4.1
+ViVO,ViVO V20 SE (Aquamarine Green),19990.0,32.0,16.36,Qualcomm Snapdragon 665 Processor,8.0,128.0,4100.0,1000.0,4.3
+REDMI,REDMI Note 10 Pro Max (Dark Night),21078.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,128.0,5020.0,512.0,4.3
+REDMI,REDMI Note 10 Pro Max (Glacial Blue),24877.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,8.0,128.0,5020.0,512.0,4.2
+Itel,Itel A48 (Gradation Green),6499.0,5.0,15.49,Quad Core Processor,2.0,32.0,3000.0,128.0,4.0
+REDMI,REDMI Note 10 Pro Max (Glacial Blue),20770.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,128.0,5020.0,512.0,4.3
+Micromax,Micromax IN 1b (Blue),7999.0,8.0,16.56,,4.0,64.0,5000.0,128.0,4.1
+REDMI,REDMI Note 10 Pro Max (Dark Night),23628.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,8.0,128.0,5020.0,512.0,4.2
+OPPO,OPPO A54 (Starry Blue),15990.0,16.0,16.54,MediaTek Helio P35 Processor,6.0,128.0,5000.0,256.0,4.3
+OPPO,OPPO A54 (Crystal Black),15990.0,16.0,16.54,MediaTek Helio P35 Processor,6.0,128.0,5000.0,256.0,4.3
+OPPO,OPPO F19 (Midnight Blue),18990.0,16.0,16.33,Qualcomm Snapdragon 662 Processor,6.0,128.0,5000.0,256.0,4.2
+POCO,POCO M2 Pro (Two Shades of Black),13999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,6.0,64.0,5000.0,512.0,4.4
+OPPO,OPPO Reno5 Pro 5G (Astral Blue),35990.0,32.0,16.64,,8.0,128.0,4350.0,0.0,4.4
+OPPO,OPPO Reno5 Pro 5G (Starry Black),35990.0,32.0,16.64,,8.0,128.0,4350.0,0.0,4.4
+LAVA,LAVA Z6 (Aqua Blue),10299.0,16.0,16.55,MediaTek Helio G35 Processor,6.0,64.0,5000.0,512.0,3.9
+realme,realme 3i (Diamond Red),10499.0,13.0,15.8,,4.0,64.0,4230.0,256.0,4.4
+Micromax,Micromax IN 1b (Purple),8945.0,8.0,16.56,,4.0,64.0,5000.0,128.0,4.1
+REDMI,REDMI Note 9 (Shadow Black),13999.0,13.0,16.59,MediaTek Helio G85 Processor,6.0,128.0,5020.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy A21s (Black),17499.0,13.0,16.51,Exynos 850 Octa Core Processor,6.0,128.0,5000.0,512.0,4.2
+SAMSUNG,SAMSUNG Galaxy M11 (Violet),9990.0,8.0,16.26,,3.0,32.0,5000.0,512.0,4.2
+realme,realme 3i (Diamond Blue),8499.0,13.0,15.8,,3.0,32.0,4230.0,256.0,4.4
+realme,realme 5 Pro (Sparkling Blue),16999.0,16.0,16.0,,8.0,128.0,4035.0,256.0,4.5
+OPPO,OPPO A15 (Mystery Blue),8990.0,5.0,16.56,,2.0,32.0,4230.0,256.0,4.1
+REDMI,REDMI 9 Prime (Sunrise Flare),10999.0,8.0,16.59,MediaTek Helio G80 Processor,4.0,128.0,5020.0,512.0,4.4
+ViVO,ViVO Y50 (Iris Blue),16490.0,16.0,16.59,Qualcomm Snapdragon 665 Processor,8.0,128.0,5000.0,256.0,4.4
+ASUS,ASUS ROG Phone 5 (White),49999.0,24.0,17.22,,8.0,128.0,6000.0,0.0,4.4
+SAMSUNG,SAMSUNG Galaxy M31 (Space Black),17999.0,32.0,16.26,Samsung Exynos 9 Octa 9611 Processor,8.0,128.0,6000.0,512.0,4.3
+realme,realme C15 (Power Blue),9999.0,8.0,16.56,Mediatek Helio G35 Processor,4.0,64.0,6000.0,256.0,4.4
+LAVA,LAVA Z2 Max (Stroked Blue),7799.0,8.0,17.78,MediaTek Helio Quad Core Processor,2.0,32.0,6000.0,256.0,4.2
+Redmi,Redmi 8A Dual (Sky White),8299.0,8.0,15.8,Qualcomm Snapdragon 439 Processor,3.0,32.0,5000.0,512.0,4.2
+SAMSUNG,SAMSUNG Galaxy M01 (Blue),8395.0,5.0,14.48,,3.0,32.0,4000.0,512.0,4.2
+SAMSUNG,SAMSUNG Galaxy M02 (Gray),8271.0,5.0,16.64,MediaTek MT6739 Processor,3.0,32.0,5000.0,0.0,4.0
+realme,realme C3 (Blazing Red),8999.0,5.0,16.56,Helio G70 Processor,3.0,32.0,5000.0,256.0,4.4
+SAMSUNG,SAMSUNG M02s (Blue),8999.0,5.0,16.51,Qualcomm Snapdragon 450 Processor,3.0,32.0,5000.0,0.0,4.1
+Spinup,Spinup A7 Pro (Fusion Blue),5490.0,8.0,13.97,Snapdragon Processor,2.0,16.0,3000.0,64.0,3.4
+realme,realme 6 (Comet White),14999.0,16.0,16.51,MediaTek Helio G90T Processor,6.0,64.0,4300.0,256.0,4.4
+Redmi,Redmi Note 9 Pro (Aurora Blue),13560.0,16.0,16.94,,4.0,64.0,5020.0,512.0,4.4
+SAMSUNG,SAMSUNG Galaxy M31 (Ocean Blue),17999.0,32.0,16.26,Samsung Exynos 9 Octa 9611 Processor,8.0,128.0,6000.0,512.0,4.3
+SAMSUNG,SAMSUNG Galaxy A12 (Black),12999.0,8.0,16.51,,4.0,64.0,5000.0,1000.0,4.2
+LG,LG W41 (Magic Blue),8499.0,8.0,16.64,MediaTek Helio G35 Processor,4.0,64.0,5000.0,256.0,4.0
+POCO,POCO M2 (Slate Blue),10499.0,8.0,16.59,MediaTek Helio G80 Processor,6.0,64.0,5000.0,512.0,4.3
+OPPO,OPPO F17 (Dynamic Orange),16990.0,16.0,16.36,Qualcomm Snapdragon 662 Processor,6.0,128.0,4015.0,0.0,4.2
+REDMI,REDMI Note 10 Pro (Vintage Bronze),17929.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,64.0,5020.0,512.0,4.3
+REDMI,REDMI Note 10 Pro (Dark Night),17989.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,64.0,5020.0,512.0,4.3
+REDMI,REDMI Note 10 Pro (Glacial Blue),17990.0,16.0,16.94,Qualcomm Snapdragon 732G Processor,6.0,64.0,5020.0,512.0,4.3
+ViVO,ViVO X60 Pro (Midnight Black),49990.0,32.0,16.66,Qualcomm Snapdragon 870 Processor,12.0,256.0,4200.0,0.0,4.4
+SAMSUNG,SAMSUNG Galaxy A51 (Prism Crush Black),22499.0,32.0,16.51,Exynos 9611 Processor,8.0,128.0,4000.0,512.0,4.3
+ViVO,ViVO Y20 (Obsidian Black),12990.0,8.0,16.54,Qualcomm Snapdragon 460 Processor,4.0,64.0,5000.0,256.0,4.4
+ViVO,ViVO V20 2021 (Midnight Jazz),27990.0,44.0,16.36,Qualcomm Snapdragon 730 Processor,8.0,256.0,4000.0,1000.0,4.4
+Tecno,Tecno POVA (Magic Blue),13496.0,8.0,17.27,MediaTek Helio G80 Processor,6.0,128.0,6000.0,256.0,4.2
+realme,realme 6 (Comet Blue),14999.0,16.0,16.51,MediaTek Helio G90T Processor,6.0,64.0,4300.0,256.0,4.4
+realme,realme 6 (Comet White),14999.0,16.0,16.51,MediaTek Helio G90T Processor,6.0,64.0,4300.0,256.0,4.4
+I,,1399.0,3.0,4.57,,0.032,0.064,800.0,8.0,3.6
+Redmi,Redmi Note 9 Pro (Glacier White),14241.0,16.0,16.94,,4.0,128.0,5020.0,512.0,4.4
+ViVO,ViVO X60 Pro (Shimmer Blue),49990.0,32.0,16.66,Qualcomm Snapdragon 870 Processor,12.0,256.0,4200.0,0.0,4.4
+Redmi,Redmi K20 (Carbon Black),22999.0,20.0,16.23,Qualcomm Snapdragon 730 Processor,6.0,64.0,4000.0,0.0,4.5
+GIONEE,GIONEE S11 Lite (Dark Blue),6799.0,16.0,14.48,,4.0,32.0,3030.0,256.0,4.1
+Nokia,4 (Dusk Purple),9999.0,5.0,16.51,MediaTek Helio P22 Processor,3.0,64.0,4500.0,512.0,4.1
+Voto,Voto V2 (Champagne),3849.0,8.0,12.7,Spreadtrum SC9832 Cortex A7 Processor,2.0,16.0,3000.0,0.0,3.5
+Redmi,Redmi K20 (Carbon Black),22999.0,20.0,16.23,Qualcomm Snapdragon 730 Processor,6.0,64.0,4000.0,0.0,4.5
+GIONEE,GIONEE S11 Lite (Dark Blue),6799.0,16.0,14.48,,4.0,32.0,3030.0,256.0,4.1
+Nokia,4 (Dusk Purple),9999.0,5.0,16.51,MediaTek Helio P22 Processor,3.0,64.0,4500.0,512.0,4.1
+Voto,Voto V2 (Champagne),3849.0,8.0,12.7,Spreadtrum SC9832 Cortex A7 Processor,2.0,16.0,3000.0,0.0,3.5
+POCO,POCO M2 Pro (Out of the Blue),13999.0,16.0,16.94,Qualcomm Snapdragon 720G Processor,6.0,64.0,5000.0,512.0,4.4
+realme,realme 5 Pro (Chroma White),14999.0,16.0,16.0,,6.0,64.0,4035.0,256.0,4.5
+realme,realme 5 Pro (Sparkling Blue),14999.0,16.0,16.0,,6.0,64.0,4035.0,256.0,4.5
+ViVO,ViVO Y51 (Titanium Sapphire),17990.0,16.0,16.71,Qualcomm Snapdragon 665 Processor,8.0,128.0,5000.0,1000.0,4.3
+SAMSUNG,SAMSUNG Galaxy A12 (Black),13999.0,8.0,16.51,,4.0,128.0,5000.0,1000.0,4.2
+SAMSUNG,SAMSUNG Galaxy A51 (Haze Crush Silver),22499.0,32.0,16.51,Exynos 9611 Processor,8.0,128.0,4000.0,512.0,4.3
+OPPO,OPPO F17 (Navy Blue),16990.0,16.0,16.36,Qualcomm Snapdragon 662 Processor,6.0,128.0,4015.0,0.0,4.2
+Micromax,Micromax IN Note 1 (White),11999.0,16.0,16.94,,4.0,128.0,5000.0,256.0,4.3
+REDMI,REDMI Note 9 (Scarlet Red),13999.0,13.0,16.59,MediaTek Helio G85 Processor,6.0,128.0,5020.0,512.0,4.3
+Redmi,Redmi Note 8 (Neptune Blue),13999.0,13.0,16.0,Qualcomm Snapdragon 665 Processor,4.0,64.0,4000.0,512.0,4.4
+ViVO,ViVO S1 (Skyline Blue),16990.0,32.0,16.21,,4.0,128.0,4500.0,256.0,4.5
+REDMI,REDMI Note 8 Pro (Electric Blue),17999.0,20.0,16.59,MediaTek Helio G90T Processor,6.0,128.0,4500.0,512.0,4.4
+Redmi,Redmi 6A (Black),6999.0,5.0,13.84,,2.0,16.0,3000.0,128.0,4.3
+SAMSUNG,SAMSUNG Galaxy M11 (Metallic Blue),10085.0,8.0,16.26,,3.0,32.0,5000.0,512.0,4.2
+OPPO,OPPO F17 (Classic Silver),16990.0,16.0,16.36,Qualcomm Snapdragon 662 Processor,6.0,128.0,4015.0,0.0,4.2
+Redmi,Redmi Note 9 Pro (Glacier White),12666.0,16.0,16.94,,4.0,64.0,5020.0,512.0,4.4
+Redmi,Redmi Note 8 (Neptune Blue),13999.0,13.0,16.0,Qualcomm Snapdragon 665 Processor,4.0,64.0,4000.0,512.0,4.4
+SAMSUNG,SAMSUNG Galaxy S21 Plus (Phantom Violet),75999.0,10.0,17.02,Exynos 2100 Processor,8.0,256.0,4800.0,0.0,4.4
+Infinix,Infinix Hot 9 Pro (Ocean Wave),12999.0,8.0,16.76,,4.0,64.0,5000.0,256.0,4.4
+SAMSUNG,SAMSUNG Galaxy M11 (Metallic Blue),10085.0,8.0,16.26,,3.0,32.0,5000.0,512.0,4.2
+OPPO,OPPO F17 (Classic Silver),16990.0,16.0,16.36,Qualcomm Snapdragon 662 Processor,6.0,128.0,4015.0,0.0,4.2
+IQOO,IQOO 3 (Tornado Black),24990.0,16.0,16.36,Qualcomm Snapdragon 865 Processor,8.0,128.0,4440.0,0.0,4.4
+Redmi,Redmi Note 9 Pro (Glacier White),12666.0,16.0,16.94,,4.0,64.0,5020.0,512.0,4.4
+realme,realme X2 (Pearl White),17999.0,32.0,16.26,Qualcomm Snapdragon 730G Processor,4.0,64.0,4000.0,0.0,4.5
+OPPO,OPPO A52 (Twilight Black),14990.0,16.0,16.51,Qualcomm Snapdragon 665 Processor,4.0,128.0,5000.0,256.0,4.4
+OPPO,OPPO A52 (Stream White),14990.0,16.0,16.51,Qualcomm Snapdragon 665 Processor,4.0,128.0,5000.0,256.0,4.4
+Panasonic,Panasonic Eluga Z1 Pro (Gold),9150.0,8.0,15.72,,4.0,64.0,4000.0,128.0,4.3
+LG,LG K42 (Green),7999.0,8.0,16.76,,3.0,64.0,4000.0,2000.0,3.9
+ViVO,ViVO X60 (Midnight Black),37990.0,32.0,16.66,Qualcomm Snapdragon 870 Processor,8.0,128.0,4300.0,0.0,4.4
+ViVO,ViVO X60 (Midnight Black),41990.0,32.0,16.66,Qualcomm Snapdragon 870 Processor,12.0,256.0,4300.0,0.0,4.4
+SAMSUNG,SAMSUNG Galaxy M21 (Iceberg Blue),13999.0,20.0,16.26,,4.0,64.0,6000.0,512.0,4.3
+Redmi,Redmi 8A Dual (Sky White),9999.0,8.0,15.8,Qualcomm Snapdragon 439 Processor,3.0,64.0,5000.0,512.0,4.2
+Redmi,Redmi 8A Dual (Midnight Grey),9999.0,8.0,15.8,Qualcomm Snapdragon 439 Processor,3.0,64.0,5000.0,512.0,4.2
+OPPO,OPPO F17 (Dynamic Orange),18490.0,16.0,16.36,Qualcomm Snapdragon 662 Processor,8.0,128.0,4015.0,0.0,4.3
+SAMSUNG,SAMSUNG Galaxy A21s (Blue),17499.0,13.0,16.51,Exynos 850 Octa Core Processor,6.0,128.0,5000.0,512.0,4.2
+realme,realme Narzo 10A (So White),9999.0,5.0,16.56,,4.0,64.0,5000.0,256.0,4.5
+ViVO,ViVO X60 (Shimmer Blue),37990.0,32.0,16.66,Qualcomm Snapdragon 870 Processor,8.0,128.0,4300.0,0.0,4.4
+REDMI,REDMI Note 8 Pro (Halo White),16999.0,20.0,16.59,MediaTek Helio G90T Processor,6.0,64.0,4500.0,512.0,4.4
+ViVO,ViVO X60 (Shimmer Blue),41990.0,32.0,16.66,Qualcomm Snapdragon 870 Processor,12.0,256.0,4300.0,0.0,4.4
+Spinup,Spinup A7 Pro (Snow White),5490.0,8.0,13.97,Snapdragon Processor,2.0,16.0,3000.0,64.0,3.4
+POCO,POCO F1 (Armoured Edition),19999.0,20.0,15.7,Qualcomm Snapdragon 845 Processor,8.0,256.0,4000.0,256.0,4.5
+SAMSUNG,SAMSUNG Galaxy A32 (Awesome Violet),20499.0,20.0,16.26,Mediatek Helio G80 Processor,6.0,128.0,5000.0,1000.0,4.2
+Infinix,Infinix Smart 2 (Serene Gold),7999.0,8.0,13.84,MTK6739 64 bit Quad Core Processor,3.0,32.0,3050.0,128.0,4.1
+SAMSUNG,SAMSUNG Galaxy A10s (Blue),10000.0,8.0,15.75,MediaTek MT6762 Processor,2.0,32.0,4000.0,512.0,4.4
